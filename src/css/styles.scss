@@ -1,3 +1,7 @@
 $primary:#9f56d7;
-$background:#FFF0E7;
+$background: #F5EFE0;
 @import '../../node_modules/bulma/bulma';
+
+.custom-bg-color{
+  background-color: #F5EFE0;
+}
